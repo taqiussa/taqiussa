@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taqiussa
-- 👀 I’m interested in Javascript and PHP
+- 👀 I’m interested in  PHP ~ Laravel, InertiaJs and Livewire
 - 🌱 I’m currently learning Javascript , Vue, and React
 - 💞️ I’m looking to collaborate on Laravel , Vue, React
 - 📫 How to reach me mail me
