@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @taqiussa
 - 👀 I’m interested in  PHP ~ Laravel, InertiaJs and Livewire
 - 🌱 I’m currently learning Javascript , Vue, and React
-- 💞️ I’m looking to collaborate on Laravel , Vue, React
+- 🌱 I’m currently learning Python, Django, Docker, NixOs
+- 💞️ I’m looking to collaborate on anything I said above
 - 📫 How to reach me mail me
 
 <!---
