@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @taqiussa
-- 👀 I’m interested in  PHP ~ Laravel, InertiaJs and Livewire
-- 🌱 I’m currently learning Rust, Golang, and Htmx
-- 💞️ I’m looking to collaborate on anything I said above
+- 👀 I’m interested in  PHP ~ Laravel and Livewire
+- 🌱 I’m currently learning Rust, Golang, Svelte and  Htmx
 - 📫 How to reach me mail me
 
 <!---
